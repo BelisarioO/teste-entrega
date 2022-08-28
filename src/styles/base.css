@@ -1,0 +1,24 @@
+:root {
+    /*  blue Scale   */
+    --bg-button-color: #454D6B;
+    --form-color: #6495ED;
+    --header-color: #6495ED;
+    --btn-color: #3d75df;
+
+    /*  dashboard  */
+    --bg-post: #ECF0F1;
+    --bg-button: #FF3F5B;
+    --font-color-post: #363457;
+
+    /* black, white and gray*/ 
+    --black: #000000;
+    --white: #FFFFFF;
+    --gray-light: #C3C3C3;
+
+
+    /*  Font family */
+   --font: 'Inter', sans-serif;
+
+   /*text-stroke */
+   --stroke: rgb(0, 0, 0) 1px 0px 0px, rgb(0, 0, 0) 0.540302px 0.841471px 0px, rgb(0, 0, 0) -0.416147px 0.909297px 0px, rgb(0, 0, 0) -0.989992px 0.14112px 0px, rgb(0, 0, 0) -0.653644px -0.756802px 0px, rgb(0, 0, 0) 0.283662px -0.958924px 0px, rgb(0, 0, 0) 0.96017px -0.279415px 0px;
+}
